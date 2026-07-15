@@ -10,7 +10,7 @@
     <li>P for PAL (Europe, Oceania, and Australia)</li>
     <li>J for NTSC-J (Japan)</li>
     <li>K for Korea</li>
-    <li><em>Other available region letters are available on <a href="https://wiibrew.org/wiki/Title_database#Region_Codes">WiiBrew</a><em></li>
+    <li><em>Other available region letters are available on <a href="https://wiibrew.org/wiki/Title_database#Region_Codes">WiiBrew</a></em></li>
 </ul>
 <p>
     Last Updated: 2026-07-15<br>
