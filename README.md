@@ -13,5 +13,6 @@
     <li><em>Other available region letters are available on <a href="https://wiibrew.org/wiki/Title_database#Region_Codes">WiiBrew</a><em></li>
 </ul>
 <p>
-    Last Updated: 2026-07-15
+    Last Updated: 2026-07-15<br>
+    Initial Creator: <a href="https://github.com/ZodiaKGalXy">ZodiaKGalXy</a>
 </p>
