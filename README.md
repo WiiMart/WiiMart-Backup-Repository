@@ -1,6 +1,7 @@
 # WiiMart-Backup-Repository
 <p>
-    In an instance where WiiMart is down or temporarily unavailable, this repository will be public for the customers. It will otherwise become private for whenever the service is back.
+    In an instance where WiiMart is down or temporarily unavailable, this repository will be public for the customers. It will otherwise become private for whenever the service is back.<br><br>
+    This backup was designated for custom titles only, not the ENTIRE Wii Shop database.
 <p>
 <p>
     WAD region is indicated via the <strong>TITLE ID</strong> or by the folder name.
